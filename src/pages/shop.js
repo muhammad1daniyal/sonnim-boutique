@@ -42,13 +42,13 @@ const ShopPage = (props) => {
             />
           </div>
         </Container>
-        <Banner
+        {/* <Banner
           maxWidth={'650px'}
           name={`Maqsood Mehmood`}
           subtitle={
             'Look to our women’s sweaters for modern takes on one-and-done dressing. From midis in bold prints to dramatic floor-sweeping styles and easy all-in-ones, our edit covers every mood.'
           }
-        />
+        /> */}
         <Container size={'large'} spacing={'min'}>
           <div className={styles.metaContainer}>
             <span className={styles.itemCount}>476 items</span>
