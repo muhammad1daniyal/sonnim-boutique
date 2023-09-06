@@ -54,6 +54,7 @@ const IndexPage = () => {
           <Title name={'New Collection'} />
           <ProductCollectionGrid />
         </Container>
+        76468200
       </div>
 
       {/* New Arrivals */}
