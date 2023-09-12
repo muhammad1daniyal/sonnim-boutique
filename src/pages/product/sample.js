@@ -38,7 +38,7 @@ const ProductPage = (props) => {
         <Container size={'large'} spacing={'min'}>
           <Breadcrumbs
             crumbs={[
-              { link: '/', label: 'Home' },
+              //{ link: '/', label: 'Home' },
               { label: 'Men', link: '/shop' },
               { label: 'Sweater', link: '/shop' },
               { label: `${sampleProduct.name}` },
